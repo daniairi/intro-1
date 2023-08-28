@@ -1,9 +1,4 @@
 Here's another file!
-<<<<<<< HEAD
 This file is great
 You forgot to put a dot!
 It is  wonderful file
-=======
-This file is bad
-You forgot to put a dot!
->>>>>>> 579ee64f316070bed9dd5c6fdb075f1c0f1a91fa
